@@ -16,6 +16,12 @@ A Flutter-based job portal application that connects job seekers with employers.
 - Flutter: The entire application is developed using the Flutter framework, enabling cross-platform compatibility for iOS and Android.
 - Flutter Provider: Provider package is used for state management, allowing efficient data sharing between different screens and components.
 
+## Screenshots
+[HomePage](https://github.com/utsavhingar22/Job-Portal-Flutter/blob/main/screenshots/Screenshot%202023-07-08%20214200.png)
+[JobDescription](https://github.com/utsavhingar22/Job-Portal-Flutter/blob/main/screenshots/Screenshot%202023-07-08%20214327.png)
+[ProfileSection](https://github.com/utsavhingar22/Job-Portal-Flutter/blob/main/screenshots/Screenshot%202023-07-08%20224644.png)
+
+
 ## Getting Started
 
 Follow the steps below to get started with the Flutter Job Portal:
