@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_job_portal/theme/images.dart';
+import 'package:flutter_job_portal/ui/bottom_menu_bar.dart';
 
 
 void main() {
